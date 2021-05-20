@@ -6,7 +6,7 @@
     "@progress/kendo-drawing": "^1.8.1",
     "@progress/kendo-react-pdf": "^3.15.0",
     "dom-to-image": "^2.6.0",
-    "html-pdf": "^2.2.0",
+    "html-pdf": "^3.0.1",
     "html2canvas": "^1.0.0-rc.5",
     "jspdf": "^1.5.3",
     "react": "^16.13.1",
